@@ -255,7 +255,7 @@ html , body {
 
 
 #div-2-p4 #div-1 {
-    background-image: url(/drgn.jpg);
+    background-image: url(drgn.jpg);
     background-position: center;
     background-size: cover;
 }
